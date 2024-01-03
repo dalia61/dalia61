@@ -10,7 +10,7 @@
 - Codeforces: [pcy_61](https://codeforces.com/profile/pcy_61)
 
 ## About me:
-- Passionate and motivated Junior iOS Developer eager to grow and learn. Seeking an entry-level role to contribute and further develop skills in iOS development.
+- Proficient in Swift, Xcode, and iOS tools, specializing in UI/UX, bug resolution, and feature enhancements. Solid background in software development, embracing emerging technologies for superior mobile solutions. Passionate about iOS trends, driving innovation in projects, and continuously advancing expertise in iOS app development.
 - Check out my [CV](https://drive.google.com/file/d/1e0ufbAElf9E01CXVUzuTyg_RdJBFJnF9/view?usp=share_link) for detailed experiences.
 
 ## Languages and Tools:
@@ -21,11 +21,12 @@
 </p>
 
 ## Skills:
-- 👨‍💻 Swift, UIKit
-- ⚙️ MVC, MVP, MVVM-C, RxSwift
+- 👨‍💻 Swift, C++
+- 👨‍💻 Object-Oriented Programming (OOP), SOLID Principles
+- 👨‍💻 Data Structures and Algorithms
+- ⚙️ MVC, MVP, MVVM-C with Observer
+- ⚙️ UIKit, UI Layout
 - ⚙️ Git, GitFlow
-- 👨‍💻 Firebase
-- 💽 Software Engineering, Data Structures, Algorithms
 
 ## Statistics:
 <p align="center">
